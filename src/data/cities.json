@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Cacak",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2024-04-16T16:48:14.527Z",
+      "notes": "",
+      "position": {
+        "lat": "43.902839992663196",
+        "lng": "20.35629272460938"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Malta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2024-04-18T11:25:37.499Z",
+      "notes": "",
+      "position": {
+        "lat": "35.913137765092955",
+        "lng": "14.256287820912853"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Slunj",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-04-18T11:28:17.914Z",
+      "notes": "",
+      "position": {
+        "lat": "45.154927133618465",
+        "lng": "15.496215820312502"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Leskovac",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2024-04-22T08:54:47.252Z",
+      "notes": "",
+      "position": {
+        "lat": "43.00715779023924",
+        "lng": "21.96990966796875"
+      },
+      "id": 73930389
+    }
+  ]
+}
