@@ -12,4 +12,4 @@ In this react+vite application, hooks were used. One of which are react-router-d
 For the global state handling, the useContext was used for a smaller app like this.
 Third party library that was used for the map was "Leaflet"
 For the styling was used CSS modules.
-Also want to mention that this was a part Jonas Schmedtmann program, and the copyrights in his name.
+
